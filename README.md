@@ -2,7 +2,7 @@
 
 ![splash](https://user-images.githubusercontent.com/42657760/69491148-e07c5b80-0e45-11ea-8b92-02882683d31f.png)
 
-<h3> Introudction </h3>
+<h3> Introduction </h3>
 In this project, you will create a tower defense game called Ants Vs. SomeBees. As the ant queen, you populate your colony with the bravest ants you can muster. Your ants must protect their queen from the evil bees that invade your territory. Irritate the bees enough by throwing leaves at them, and they will be vanquished. Fail to pester the airborne intruders adequately, and your queen will succumb to the bees' wrath. This game is inspired by PopCap Games' Plants Vs. Zombies.
 
 This project combines functional and object-oriented programming paradigms, focusing on the material from Chapter 2.5 of Composing Programs. The project also involves understanding, extending, and testing a large program.
